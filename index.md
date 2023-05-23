@@ -7,11 +7,19 @@ title: 紹介
 ---
 
 ## Siāu-kài Chheh 紹介冊
-- 冊名：
-- 作者：
-- 出版單位：
-- 出版時間：
+- 冊名：台灣白話基礎語句 (A Basic Vocabulary For A Beginner In Taiwanese)
+- 作者：高積煥 陳邦鎮
+- 出版時間：1956
 - 特色：
+  - Chit本是kui phō台語教科書內底其中第4本，其他--ê chhōe bô
+  - 冊--ni̍h有交代講che m̄是辭典，m̄ koh thang做基礎去發展做辭典
+  - 冊皮有寫是Maryknoll神父指導--ê
+  - Maryknoll是天主教系統--ê，in出版ê教材主要目的是beh教海外來台灣服務ê神職人員，教科書是kō͘英語教台語
+  - 冊--ni̍h Pe̍h-ōe-jī系統kap台灣基督長老教會--ê有sió-khóa koh樣，精差ê所在列tī下底
+    - 鼻音「ⁿ」寫做「*」
+    - 第7調「ā」寫做「ä」（冊--ni̍h有解說是chit本印刷ê因端chiah bô-ta-ôa án-ne改）
+    - 第8調「a̍h」寫做「áh」（冊--ni̍h有解說是chit本印刷ê因端chiah bô-ta-ôa án-ne改）
+  - 因為是戰後中華民國時代出版--ê，內底有收錄1 kóa中華民國觀點ê詞kap句
 
 ---
 ## Chi-chhî 支持
